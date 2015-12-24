@@ -1,3 +1,5 @@
 # 准备工作和所具备知识
 
-如果您只是使用gitbook在线编辑器或是gitbook客户端编辑器，那您只需学会如何使用gitbook工具即可。而如果您想脱离gitbook编辑器去创建一部电子书籍的话，就会涉及到node.js
+如果您只是使用gitbook.com的在线编辑器或客户端，那您只需学会如何使用gitbook工具即可。而如果您想脱离gitbook.com的编辑器去创建一部电子书籍的话，就会涉及到Node.js。
+
+gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或AsciiDoc)就能制作漂亮的电子书籍
