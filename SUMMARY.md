@@ -5,6 +5,6 @@
 * [准备工作和所具备知识](zhun_bei_gong_zuo.md)
 * [1.gitbook](gitbook.com/README.md)
    * [1.1gitbook.com账户注册](gitbook.com/register.md)
-   * 1.2Creat Ebook
+   * [Create Ebook](gitbook.com/Create_Ebook.md)
 * [目录](mu_lu.md)
 
