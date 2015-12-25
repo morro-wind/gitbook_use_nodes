@@ -1,2 +1,2 @@
-# 1.gitbook.com
+# gitbook.com
 
