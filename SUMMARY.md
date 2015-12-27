@@ -6,6 +6,6 @@
 * [1.gitbook](gitbook.com/README.md)
    * [1.1.gitbook.com账户注册](gitbook.com/register.md)
    * [1.2.Create Ebook](gitbook.com/create_ebook.md)
-   * 1.3. GitBook在线编辑器
+   * [1.3. GitBook在线编辑器](gitbook.com/GitBook Editor.md)
 * [目录](mu_lu.md)
 
