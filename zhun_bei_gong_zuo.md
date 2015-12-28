@@ -39,11 +39,11 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
 本笔记所有操作均是基于ubuntu 14.04 x86_64平台  
 
 ## **常见错误**
-在对node.js源码配置过程中会报如下错误:
+1.在对node.js源码配置过程中会报如下错误:
 
       WARNING: failed to autodetect C++ compiler version (CXX=g++)
 安装gcc即可解决次错误，安装方式如下:
 
       sudo apt-get  install  build-essential
 
-
+2.使用编译好的二进制包时，需要将解压后的软件包加入到环境变量，这样就可以在任何位置使用软件包中的程序了
