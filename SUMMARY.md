@@ -10,4 +10,5 @@
    * [1.4. GitHub关联并创建仓库](gitbook.com/github_create.md)
    * [1.5. GitBook Editor 客户端](gitbook.com/GitBook_client.md)
 * [目录](mu_lu.md)
+* 2.GitBook终端操作
 
