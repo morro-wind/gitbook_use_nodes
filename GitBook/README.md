@@ -12,5 +12,4 @@ Gitbook 其实是一个终端命令工具。
 gitbook 终端命令工具，真正使用的是gitbook-cli命令。  
 
       $sudo npm install -g gitbook-cli
-      $sudo ln -s /usr/local/node-4.2/bin/gitbook /usr/local/bin/gitbook
 
