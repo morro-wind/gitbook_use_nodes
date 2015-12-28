@@ -26,7 +26,7 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
       $./configrue --prefix=/usr/local/node-4.2
       $sudo make && sudo make install
  3.配置可执行软链接
-      $sudo ln -s /usr/local/node-4.2/bin/* /usr/local/bin/
+      $sudo cp /usr/local/node-4.2/bin/* /usr/local/bin/
 * **npm**  
 
   NPM的全称是Node Package Manager,是Node.js包管理和分发工具。通过此工具安装gitbook-client
