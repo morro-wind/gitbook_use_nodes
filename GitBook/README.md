@@ -12,6 +12,7 @@ Gitbook 其实是一个终端命令工具。
 gitbook 终端命令工具，安装时安装的是`gitbook-cli`。  
 
       $sudo npm install -g gitbook-cli
+      $gitbook versions:install latest
 * `gitbook versions` 显示本地目前可用的GitBook版本；
 * `gitbook versions:available` 显示有哪些可以安装的版本；
 * `gitbook versions:install latest` 安装最新版本；
