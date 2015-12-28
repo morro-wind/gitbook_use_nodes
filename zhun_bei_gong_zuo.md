@@ -19,9 +19,10 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
 
  > 通过包管理器的安装方式请参照[官方文档](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)  
  这里我简单介绍下使用源码编译安装。  
- 1.下载node.js源码  
+ 1.下载node.js源码并解压  
       $wget https://nodejs.org/dist/v4.2.4/node-v4.2.4.tar.gz
       $tar zxf node-v4.2.4.tar.gz && cd node-v4.2.4
+ 2.配置源码并编译  
       $./configrue --prefix=/usr/local/node-4.2
       $sudo make && sudo make install
       
