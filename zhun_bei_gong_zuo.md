@@ -22,7 +22,9 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
  1.下载node.js源码  
       $wget https://nodejs.org/dist/v4.2.4/node-v4.2.4.tar.gz
       $tar zxf node-v4.2.4.tar.gz && cd node-v4.2.4
-      $
+      $./configrue --prefix=/usr/local/node-4.2
+      $sudo make && sudo make install
+      
 * **npm**  
 
   NPM的全称是Node Package Manager,是Node.js包管理和分发工具。通过此工具安装gitbook-client
@@ -33,7 +35,15 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
   这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
   ——维基百科
   
-####**说明**
+##**说明**
 本笔记所有操作均是基于ubuntu 14.04 x86_64平台  
 
 ## **常见错误**
+1.在对node.js源码配置过程中会报如下错误:
+
+      WARNING: failed to autodetect C++ compiler version (CXX=g++)
+安装gcc即可解决次错误，安装方式如下:
+
+      sudo apt-get  install  build-essential
+
+
