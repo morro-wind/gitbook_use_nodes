@@ -6,4 +6,4 @@
 * `LANGS.md`:多种语言设置。
 * `GLOSSARY.md`:词量表和定义描述。  
 
-README.md和SUMMARY.md是书籍必不可少的文件，可用`gitbook init`命令自动生成，其余文件如有需要，可手动添加。
+`README.md`和`SUMMARY.md`是书籍必不可少的文件，可用`gitbook init`命令自动生成，其余文件如有需要，可手动添加。
