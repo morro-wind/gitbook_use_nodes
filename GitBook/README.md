@@ -17,4 +17,5 @@ gitbook 终端命令工具，安装时安装的是`gitbook-cli`。
 * `gitbook versions:available` 显示有哪些可以安装的版本；
 * `gitbook versions:install latest` 安装最新版本；
 * `gitbook versions:install 2.3.3` 安装指定版本；
-* `gitbook versions:uninstall 2.3.3` 卸载指定版本
+* `gitbook versions:uninstall 2.3.3` 卸载指定版本  
+
