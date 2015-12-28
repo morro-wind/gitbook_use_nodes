@@ -15,6 +15,11 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
 * **Node.js**
 
   Node.js是一个基于Chrome V8引擎的JavaScript运行环境。Node.js使用了一个事件驱动、非阻塞式I/O的模型，使其轻量又高校。Node.js的包管理器npm，是全球最大的开源库生态系统。下载地址:https://wwww.nodejs.org/en/download/ 或http://nodejs.cn/download/
+  
+* **npm**  
+
+  NPM的全称是Node Package Manager,是Node.js包管理和分发工具。通过此工具安装gitbook-client
+  
 * **Markdown**
 
   Markdown是一种轻量级标记语言，创始人为约翰 格鲁伯(John Gruber)。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或HTML)文档”。
