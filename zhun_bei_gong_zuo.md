@@ -14,8 +14,15 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
 
 * **Node.js**
 
-  Node.js是一个基于Chrome V8引擎的JavaScript运行环境。Node.js使用了一个事件驱动、非阻塞式I/O的模型，使其轻量又高校。Node.js的包管理器npm，是全球最大的开源库生态系统。下载地址:https://wwww.nodejs.org/en/download/ 或http://nodejs.cn/download/
-  
+  Node.js是一个基于Chrome V8引擎的JavaScript运行环境。Node.js使用了一个事件驱动、非阻塞式I/O的模型，使其轻量又高校。Node.js的包管理器npm，是全球最大的开源库生态系统。下载地址:https://wwww.nodejs.org/en/download/ 或http://nodejs.cn/download/  
+ >node.js有多种安装方式，可以下载编译好的二进制包解压后直接使用，也可通过包管理器安装，还可通过下载源码包编译安装。  
+
+ > 通过包管理器的安装方式请参照[官方文档](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)  
+ 这里我简单介绍下使用源码编译安装。  
+ 1.下载node.js源码  
+      $wget https://nodejs.org/dist/v4.2.4/node-v4.2.4.tar.gz
+      $tar zxf node-v4.2.4.tar.gz && cd node-v4.2.4
+      $
 * **npm**  
 
   NPM的全称是Node Package Manager,是Node.js包管理和分发工具。通过此工具安装gitbook-client
@@ -27,4 +34,6 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
   ——维基百科
   
 ####**说明**
-本笔记所有操作均是基于ubuntu 14.04 x86_64平台
+本笔记所有操作均是基于ubuntu 14.04 x86_64平台  
+
+## **常见错误**
