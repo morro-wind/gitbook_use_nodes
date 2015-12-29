@@ -36,3 +36,9 @@
 
     git remote add gitbook https://git.gitbook.com/{{UserName}}/{{Book}}.git
     git push -u gitbook master
+
+下一步进阶，就是“使用模板、插件”等，可参考 GitBook 的[中文繁体说明](https://www.gitbook.com/book/wastemobile/gitbook-chinese/details)
+
+此指南到此就全部结束。
+
+谢谢！
