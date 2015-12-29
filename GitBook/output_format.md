@@ -39,9 +39,3 @@
 GitBook 可以说是未来出版的一个发展趋势，而且还在持续进化之中。
 
 一般使用桌面客户端编辑器，或在线编辑器即可，只要注意草稿分支的使用技巧，完全不懂技术也能制作各种电子书籍。不怕终端命令、略懂 Node 和 NPM 的，可搭配 `gitbook-cli` 和 Calibre 则可以使用 GitBook 的所有功能。
-
-下一步进阶，就是“使用模板、插件”等，可参考 GitBook 的[中文繁体说明](https://www.gitbook.com/book/wastemobile/gitbook-chinese/details)
-
-此指南到此就全部结束。
-
-谢谢！
