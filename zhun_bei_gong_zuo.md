@@ -47,6 +47,8 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
 * **Calibre**
 
   `gitbook` 制作pdf、epub等格式电子书时会用到 `ebook-convert`
+  
+  > `Calibre` 安装可见[官网](http://calibre-ebook.com/download)
 
 ##**说明**
 
