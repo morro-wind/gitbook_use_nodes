@@ -27,4 +27,7 @@
 进入第一章目录，编写第一章内容（以下截取part1目下的文件及部分内容）：
     
     #README.md
+    GitBook除了是一个命令行工具，它同时也是间书籍发布平台和电子书店。桌面版本同时支持Mac、Windows、Linux三种平台。
+    
+    #register.md
     
