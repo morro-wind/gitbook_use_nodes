@@ -14,7 +14,7 @@
 
 [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
 
-[Node 快速入门](http://www.nodebeginner.org/index-zh-cn.html)
+[Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
 
 感谢你能阅读这本手册，因为你确定这本手册值得花时间阅读。
 
