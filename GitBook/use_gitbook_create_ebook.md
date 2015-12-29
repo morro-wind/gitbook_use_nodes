@@ -24,10 +24,16 @@
     $mkdir part1
     $mkdir part2
 
-进入第一章目录，编写第一章内容（以下截取part1目下的文件及部分内容）：
-    
+进入第一章目录，编写第一章内容：
+
     #README.md
     GitBook除了是一个命令行工具，它同时也是间书籍发布平台和电子书店。桌面版本同时支持Mac、Windows、Linux三种平台。
-    
+
     #register.md
+    访问gitbook.com，如有GitHub帐号，直接使用GitHub帐号进行授权注册，这里使用GitHub帐号，是因为与GitHub进行关联时无需再次做GitHub授权操作。当然，你也可以注册一个GitBook帐号。
+
+进入第二章目录，并编写其内容：
+
+    #README.md
+    
     
