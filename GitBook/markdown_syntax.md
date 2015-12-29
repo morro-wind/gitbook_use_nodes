@@ -91,3 +91,40 @@ Alt-H2
      
 # **程序代码与语法高亮标示**
      行内 `code` 必须使用 `back-ticks` 将文字包起来(一般在键盘左上方的地一个键)。
+
+整段独立展示的代码必须使用成对的三个 back-ticks ` ``` `包裹起来，或是使用四个空格缩排。建议使用第一种方法，可以让代码具有可读性。  
+     ```javascript
+     var s = "JavaScript syntax highlighting";
+     alert(s);
+     ```
+
+     ```python
+     s = "Python syntax highlighting"
+     print s
+     ```
+
+     ```
+     No language indicated, so no syntax highlighting.
+     But let's throw in a <b>tag</b>.
+     ```  
+# **引言**
+     > 引言(Blockquotes)常常出现在电子邮件中，表示摘录来信的原句。
+     > 这一行是引言的一部分。
+     
+     Quote break.
+     
+     > 这是一段非常长的引言区块，只要在句首使用了正确的符号和空格，就可以持续不间断的撰写，整段文字都是会被包含在引言区块中。当然你依旧可以在引言区块中 *使用* **Markdown** 的行内格式标记语法。
+
+# **水平分割线**
+     三个或三个以上的符号，必须在独立的一行，前后不能有其他文字。
+     
+     ---
+     短横线（Hyphens）
+     
+     ***
+     半形星号（Asterisks）
+     
+     ___
+     下底/横线（Underscores）
+# **空行分隔段落**
+知道Markdown如何进行分段是很重要的，基本上**空行**代表前后的文字都会是段落（在HTML中以`<p>`与`</p>`包裹起来）。
