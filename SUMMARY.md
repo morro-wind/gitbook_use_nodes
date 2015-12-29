@@ -15,6 +15,5 @@
    * [2.3. 使用 GitBook 制作电子书](GitBook/use_gitbook_create_ebook.md)
    * [2.5. 生成格式](GitBook/output_format.md)
    * 2.4. Git 更新
-   * 2.4. Git 更新
 * [目录](mu_lu.md)
 
