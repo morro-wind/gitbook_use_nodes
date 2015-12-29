@@ -12,4 +12,24 @@
 
 可以把整个html目录上传到自己的网站空间，就连GitHub Pages 空间都可以用。
 
+## **制作电子书文件**
 
+从书籍项目更目录执行：
+
+* `gitbook epub` 制作 ePub 电子书
+* `gitbook mobi` 制作 Kindle 电子书
+* `gitbook pdf` 制作PDF电子书
+
+## **完整命令**
+
+也可以从书籍项目外部执行，完整命令是：
+
+    gitbook epub [book] [output]
+
+例如 `gitbook mobi ~/ebook/mybook ~/Desktop/mybook.mobi` 。制作电子书制定 `output` 时需包含完整的路径和文件名称。
+
+想要将静态网站建立到指定目录，可以这样输入：
+
+    gitbook build --output=/site/mybook
+
+输入 `gitbook help` 可以看到帮助信息。
