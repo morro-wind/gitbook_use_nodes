@@ -12,7 +12,7 @@
 * [GitBook 终端基础](GitBook/README.md)
    * [GitBook 图书结构介绍](GitBook/gitbook_str_pro.md)
    * [Markdown 标记语法](GitBook/markdown_syntax.md)
-   * [2.3. 使用 GitBook 制作电子书](GitBook/use_gitbook_create_ebook.md)
+   * [使用 GitBook 制作电子书](GitBook/use_gitbook_create_ebook.md)
    * [2.4. 生成格式](GitBook/output_format.md)
    * [2.5. Git 更新](GitBook/git_update.md)
 
