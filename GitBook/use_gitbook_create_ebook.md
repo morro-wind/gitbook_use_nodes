@@ -53,5 +53,5 @@
     * [2.GitBook 基础](part2/README.md)
        * [2.1.Markdown 语法](part2/markdown.md)
 
-> SUMMARY.md 结构说明  
-  *
+SUMMARY.md 结构说明
+
