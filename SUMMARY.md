@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [前言](qian_yan.md)
 * [准备工作和所具备知识](zhun_bei_gong_zuo.md)
-* [1.gitbook](gitbook.com/README.md)
+* [gitbook](gitbook.com/README.md)
    * [1.1.gitbook.com账户注册](gitbook.com/register.md)
    * [1.2.Create Ebook](gitbook.com/create_ebook.md)
    * [1.3. GitBook在线编辑器](gitbook.com/GitBook Editor.md)
@@ -15,5 +15,4 @@
    * [2.3. 使用 GitBook 制作电子书](GitBook/use_gitbook_create_ebook.md)
    * [2.4. 生成格式](GitBook/output_format.md)
    * [2.5. Git 更新](GitBook/git_update.md)
-
 
