@@ -13,6 +13,7 @@
 
 编写图书简介 `README.md` 文件输入如下内容：
 
+    #Introduction
     这是一本使用 gitbook 制作电子书籍的快速上手指南。
     分为两个章节：
     第一章介绍 gitbook.com 在线平台
@@ -23,4 +24,7 @@
     $mkdir part1
     $mkdir part2
 
-进入第一章目录，编写第一章内容
+进入第一章目录，编写第一章内容（以下截取part1目下的文件及部分内容）：
+    
+    #README.md
+    
