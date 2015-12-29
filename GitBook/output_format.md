@@ -8,3 +8,8 @@
 
 指定插件是由 `book.json` 这个文件控制，这里没有用到，因此GitBook只会预先安装一个 **high light** 插件，用来显示书中插入程序代码区段。(使用 `gitbook serve` 还会自动启用另一个 **livereload** 插件，用于自动重载更新后的页面。)
 
+整个静态格式书籍会放在 `_book` 目录下，若是不需要通过浏览器查看，也可使用 `gitbook build` 构建。
+
+可以把整个html目录上传到自己的网站空间，就连GitHub Pages 空间都可以用。
+
+
