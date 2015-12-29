@@ -1,25 +1,15 @@
-# 目录
-
-#gitbook Editor使用
---注册gitbook.com账户
---创建一本电子书
---关联githua项目
---gitbook editor在线编辑器
---gitbook editor草稿模式
---gitbook editor客户端
-#GitBook基础知识
---gitbook图书结构
---gitbook目录结构
---markdown标记语法
-#输出图书
---输出pdf
---输出html
-#发布
+# 参考链接
 
 http://wanqingwong.com/gitbook-zh/publish/gitpages.html
+
 https://wastemobile.gitbooks.io/gitbook-chinese/content/format/cover.html
+
 http://wanqingwong.com/gitbook-zh/publish/gitpages.html
+
 http://www.chengweiyang.cn/gitbook/basic-usage/README.html
+
 https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html
+
 http://xianbai.me/learn-md/
+
 http://wowubuntu.com/markdown/
