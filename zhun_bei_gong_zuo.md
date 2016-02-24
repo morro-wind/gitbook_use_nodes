@@ -37,6 +37,9 @@ gitbook是Node.js代码库的命令工具，使用GitHub/Git与Markdown(或Ascii
 * **npm**  
 
   NPM的全称是Node Package Manager,是Node.js包管理和分发工具。通过此工具安装gitbook-client
+
+
+    $npm install -g gitbook-cli
   
 * **Markdown**
 
