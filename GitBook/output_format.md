@@ -14,7 +14,7 @@
 
 ## **制作电子书文件**
 
-从书籍项目更目录执行：
+从书籍项目根目录执行：
 
 * `gitbook epub` 制作 ePub 电子书
 * `gitbook mobi` 制作 Kindle 电子书
